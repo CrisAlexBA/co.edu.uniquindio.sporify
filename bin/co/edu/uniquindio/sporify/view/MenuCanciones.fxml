@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="co.edu.uniquindio.sporify.controller.MenuCancionesController">
+   <children>
+      <Pane prefHeight="168.0" prefWidth="231.0">
+         <children>
+            <Label layoutX="52.0" layoutY="75.0" text="MENU DE CANCIONES" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
